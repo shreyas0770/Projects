@@ -1,4 +1,4 @@
-module FPGA_path_planner
+module FPGA_Line_Follower
 #(parameter node_count = 27, parameter max_edges = 4)
 (
 	input clk,
