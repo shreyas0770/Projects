@@ -18,7 +18,8 @@ Welcome to my GitHub repository showcasing projects in the VLSI and Embedded Sys
 - Developed control logic in Verilog HDL using Intel Quartus Prime.
 - Interfaced it with the motors and sensors of the robot.
 
-[Watch Video](https://drive.google.com/file/d/1BdKXBSMo7jjBF4rJzko8x4oRM2C3oS7o/view?usp=sharing)
+[Watch Video](https://drive.google.com/file/d/1BdKXBSMo7jjBF4rJzko8x4oRM2C3oS7o/view?usp=sharing)    |
+[View Code](https://github.com/shreyas0770/projects/blob/main/FPGA_Line_Follower.v)
 
 ## Embedded Systems Projects
 
@@ -28,7 +29,12 @@ Welcome to my GitHub repository showcasing projects in the VLSI and Embedded Sys
 - Assigns the required number of forklifts to transport objects.
 - Utilizes a line follower algorithm for autonomous navigation and a forklift with a lead screw mechanism for autonomous lifting and dropping of objects.
 
-[Watch Video](https://drive.google.com/file/d/1BcO3OXYARpfyhJ6HIT_1mKxCTQzdKZ9U/view?usp=drive_link)
+[Watch Video](https://drive.google.com/file/d/1BcO3OXYARpfyhJ6HIT_1mKxCTQzdKZ9U/view?usp=drive_link)    |
+[Arduino Code](https://github.com/shreyas0770/projects/blob/main/forklift%20-%20arduino_code.ino)    |
+[Node MCU Code](https://github.com/shreyas0770/projects/blob/main/forklift%20-%20node_mcu_to_arduino.ino)    |
+[Python Script](https://github.com/shreyas0770/projects/blob/main/forklift%20-%20python_to_node_mcu.py)
+
+
 
 ### 2) Sustainable Footstep Energy Generator
 
@@ -36,4 +42,5 @@ Welcome to my GitHub repository showcasing projects in the VLSI and Embedded Sys
 - Converts footsteps into electrical energy using Piezoelectric Sensors.
 - Stores energy in a lithium-ion battery and provides a reliable power source for charging authorized smartphones using an RFID Sensor.
 
-[Watch Video](https://drive.google.com/file/d/1BX6JV0Jt_LsnUmsxcAcYHncmeqahgbMd/view?usp=drive_link)
+[Watch Video](https://drive.google.com/file/d/1BX6JV0Jt_LsnUmsxcAcYHncmeqahgbMd/view?usp=drive_link)    |
+[View Code](https://github.com/shreyas0770/projects/blob/main/Sustainable_Footstep_Energy_Generator.ino)
